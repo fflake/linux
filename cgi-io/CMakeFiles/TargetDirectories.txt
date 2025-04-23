@@ -1,0 +1,8 @@
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/cgi-lib.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/cgi-io.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/edit_cache.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/rebuild_cache.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/list_install_components.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/install.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/install/local.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/cgi-io-2022.08.10~901b0f04/CMakeFiles/install/strip.dir
