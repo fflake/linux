@@ -1,0 +1,3 @@
+/usr/lib/uhttpd_ubus.so
+/etc/uci-defaults/00_uhttpd_ubus
+/lib/apk/packages/uhttpd-mod-ubus.list

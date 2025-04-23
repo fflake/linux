@@ -1,0 +1,10 @@
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/uhttpd.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/uhttpd_lua.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/uhttpd_ucode.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/uhttpd_ubus.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/edit_cache.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/rebuild_cache.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/list_install_components.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/install.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/install/local.dir
+/sharefolder/git/openwrt/openwrt-x86/build_dir/target-i386_pentium4_musl/uhttpd-2023.06.25~34a8a74d/CMakeFiles/install/strip.dir
